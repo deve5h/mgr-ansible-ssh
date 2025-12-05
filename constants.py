@@ -2,7 +2,7 @@ import uuid
 import os
 from datetime import datetime
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
 BOLD = "\033[1m"
 UNDERLINE = "\033[4m"
