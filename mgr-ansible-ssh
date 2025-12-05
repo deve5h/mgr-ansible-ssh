@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
+
+import time
 from cli import cli
+from constants import BOLD, RESET, GREEN
 
 if __name__ == "__main__":
+    start_time = time.perf_counter()
     cli()
+    end_time = time.perf_counter()
+    elapsed = end_time - start_time
+
+    print(f"{BOLD}{GREEN}Total Execution Time{RESET}: {elapsed:.6f} seconds")
