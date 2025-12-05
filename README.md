@@ -1,5 +1,11 @@
 # mgr-ansible-ssh
 
+<p align="center">
+  <img src="https://github.com/deve5h/mgr-ansible-ssh/blob/git/image/mgr-ansible-ssh.jpeg" alt="mgr-ansible-ssh" width="500"/>
+  <br>
+  <b>mgr-ansible-ssh</b>
+</p>
+
 **Version:** v1.0.1
 
 ---
